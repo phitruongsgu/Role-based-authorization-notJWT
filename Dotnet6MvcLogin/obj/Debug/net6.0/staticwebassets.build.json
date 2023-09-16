@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "BHSkes5TXtZgWqu9UND1dRWL68OBoKPwy7qX2sTLbVU=",
+  "Source": "Dotnet6MvcLogin",
+  "BasePath": "_content/Dotnet6MvcLogin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Dotnet6MvcLogin\\wwwroot",
+      "Source": "Dotnet6MvcLogin",
+      "ContentRoot": "D:\\CodeC#\\.NET CORE MVC\\Dotnet6-Mvc-Login\\Dotnet6MvcLogin\\wwwroot\\",
+      "BasePath": "_content/Dotnet6MvcLogin",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\CodeC#\\.NET CORE MVC\\Dotnet6-Mvc-Login\\Dotnet6MvcLogin\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Dotnet6MvcLogin.styles.css",
+      "SourceId": "Dotnet6MvcLogin",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\CodeC#\\.NET CORE MVC\\Dotnet6-Mvc-Login\\Dotnet6MvcLogin\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Dotnet6MvcLogin",
+      "RelativePath": "Dotnet6MvcLogin.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\CodeC#\\.NET CORE MVC\\Dotnet6-Mvc-Login\\Dotnet6MvcLogin\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Dotnet6MvcLogin.styles.css"
+    },
+    {
+      "Identity": "D:\\CodeC#\\.NET CORE MVC\\Dotnet6-Mvc-Login\\Dotnet6MvcLogin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Dotnet6MvcLogin.bundle.scp.css",
+      "SourceId": "Dotnet6MvcLogin",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\CodeC#\\.NET CORE MVC\\Dotnet6-Mvc-Login\\Dotnet6MvcLogin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Dotnet6MvcLogin",
+      "RelativePath": "Dotnet6MvcLogin.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\CodeC#\\.NET CORE MVC\\Dotnet6-Mvc-Login\\Dotnet6MvcLogin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Dotnet6MvcLogin.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\CodeC#\\.NET CORE MVC\\Dotnet6-Mvc-Login\\Dotnet6MvcLogin\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "Dotnet6MvcLogin",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeC#\\.NET CORE MVC\\Dotnet6-Mvc-Login\\Dotnet6MvcLogin\\wwwroot\\",
+      "BasePath": "_content/Dotnet6MvcLogin",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\CodeC#\\.NET CORE MVC\\Dotnet6-Mvc-Login\\Dotnet6MvcLogin\\wwwroot\\favicon.ico",
+      "SourceId": "Dotnet6MvcLogin",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeC#\\.NET CORE MVC\\Dotnet6-Mvc-Login\\Dotnet6MvcLogin\\wwwroot\\",
+      "BasePath": "_content/Dotnet6MvcLogin",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
